@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="150px" alt="Flowmus Logo" />
+  <img src="https://raw.githubusercontent.com/Flowmus/Flowmus/main/logo.png" width="150px" alt="Flowmus Logo" />
 </div>
 
 <br/>

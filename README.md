@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Flowmus/Flowmus/main/logo.png" width="150px" alt="Flowmus Logo" />
-</div>
-
-<br/>
-
 **Hi, We're Flowmus**
 
 **Data-driven IT Enterprise** turning high-intent traffic into scalable B2B revenue.  

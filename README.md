@@ -12,7 +12,6 @@
 <br/>
 
 **Core Products**
-- Developed and operating **[ReviewMon(리뷰몬)](https://url-here)**
 - Developed and operating **[DdakMoyeo(딱모여)](https://url-here)**
 - Operating **[Sajjiknam(사찍남) Content Pipeline](https://url-here)**
 

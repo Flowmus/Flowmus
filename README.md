@@ -1,37 +1,26 @@
-**Hi, We're Flowmus**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Flowmus/Flowmus/main/logo.png" width="120" alt="Flowmus Logo" />
+</p>
 
-**Data-driven IT Enterprise** turning high-intent traffic into scalable B2B revenue.  
-**Korea-based · Building high-conversion SaaS through deep customer analysis** · Shipped & operated **3 core networks**.
+<h1 align="center">Flowmus</h1>
 
-<br/>
+**Data-driven IT Enterprise turning high-intent traffic into scalable B2B revenue.**  
+Korea-based · Building high-conversion SaaS through deep customer analysis.
 
-**Core Products**
-- Developed and operating **[DdakMoyeo(딱모여) B2B Platform](https://github.com/Flowmus/ddakmoyeo-web)**
-- Operating **[Sajjiknam(사찍남) Content Pipeline](https://url-here)**
+---
 
-<br/>
+### Core Ecosystem
 
-**Focus**
+- **[DdakMoyeo(딱모여) B2B Platform](https://github.com/Flowmus/ddakmoyeo-web)**: Verified Interest-based Matchmaking & Ad Platform
+- **[Sajjiknam(사찍남) Content Pipeline](https://url-here)**: AI-automated R10 Standard Content Pipeline
+
+### Focus & Infrastructure
+
+Flowmus operates on hyper-automated business engineering and AI-driven execution frameworks. Our primary competencies include:
 - Deep customer intent & data analysis
 - Traffic monetization & high-conversion engineering
 - Reliable, scalable B2B revenue systems
 
-<br/>
+### Connect
 
-**Internal Tech Stack (Automation & Frontend)**
-<p align="left">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-**Corporate Activity Overview**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flowmus&theme=radical&hide_border=true" alt="Flowmus GitHub Stats" />
-</p>
-
-**Business & M&A Inquiries**
-**Contact:** [ceo@flowmus.com](mailto:ceo@flowmus.com)  
-*(Open for M&A, partnerships, and high-impact B2B networking)*
+[Website (flowmus.com)](https://url-here) | [M&A and Partnerships Inquiries](mailto:ceo@flowmus.com)

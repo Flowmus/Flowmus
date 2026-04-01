@@ -12,7 +12,7 @@ Korea-based · Building high-conversion SaaS through deep customer analysis.
 ### Core Ecosystem
 
 - **[DdakMoyeo(딱모여) B2B Platform](https://github.com/Flowmus/ddakmoyeo-web)**: Verified Interest-based Matchmaking & Ad Platform
-- **[Sajjiknam(사찍남) Content Pipeline](https://url-here)**: AI-automated R10 Standard Content Pipeline
+- **[SNS Influencer Advertising Agency](https://url-here)**: AI-Automated Content Pipeline & B2B Marketing Solutions (feat. Sajjiknam/사찍남)
 
 ### Focus & Infrastructure
 
